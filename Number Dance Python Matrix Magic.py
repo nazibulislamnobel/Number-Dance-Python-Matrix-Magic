@@ -1,5 +1,4 @@
-
-59import random
+import random
 
 def setOneDim(r):
     print(f"Enter {r} integers:", end=" ")
